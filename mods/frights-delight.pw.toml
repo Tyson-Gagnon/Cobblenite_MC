@@ -1,0 +1,13 @@
+name = "Fright's Delight"
+filename = "frightsdelight-neoforge-1.21.1-1.4.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea96182f452cc5b0f6bf229c49c4d7dcb1bca5f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7425701
+project-id = 927591

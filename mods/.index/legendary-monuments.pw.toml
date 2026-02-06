@@ -1,0 +1,16 @@
+filename = 'LegendaryMonuments-7.8.jar'
+name = 'Cobblemon: Legendary Monuments'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '44387e0b40e679e3449c5c675bb91a2ec5c165a1c449f95e08e05a2ea4aa909210f1546170d32e9fe33b2b4a5bb4ab449665a60847f86fff1398fce081e2bbd1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/m6RyHSbV/versions/kSVEEVIv/LegendaryMonuments-7.8.jar'
+
+[update.modrinth]
+mod-id = 'm6RyHSbV'
+version = 'kSVEEVIv'

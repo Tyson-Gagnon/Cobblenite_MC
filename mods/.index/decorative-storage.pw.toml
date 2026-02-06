@@ -1,0 +1,16 @@
+filename = 'deco_storage-3.3709-neoforge-1.21.1.jar'
+name = '[STORAGE UPGRADES] Decorative Storage'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2a6c4a65bbb553cd26fc6f042f6c1ee3b30a9f9c38085aa68b6be541976210ba76887227bfcef4cbf915d44ee63f43b42b2d43631961a488a101d899f7de6351'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DLpaTTzJ/versions/KxK79nDq/deco_storage-3.3709-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'DLpaTTzJ'
+version = 'KxK79nDq'

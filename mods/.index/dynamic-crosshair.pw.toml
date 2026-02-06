@@ -1,0 +1,16 @@
+filename = 'dynamiccrosshair-9.10+1.21.1-neoforge.jar'
+name = 'Dynamic Crosshair'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c4ec59d1203da9b4237e0f30b36be78cbdd38240'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7082926
+project-id = 623800

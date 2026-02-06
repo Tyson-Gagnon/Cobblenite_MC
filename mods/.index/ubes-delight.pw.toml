@@ -1,0 +1,16 @@
+filename = 'ubesdelight-neoforge-1.21.1-0.4.7.jar'
+name = "Ube's Delight"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd47c5bb0ab9a7ce88fbc88a744e52bd3ad94754a0032e9c7c8313d95bcbbadc4bba3cfc2d2b9c020658d226111366e61918fa711542bf60d1f47faad2dbf6a7b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PYjpoAys/versions/nQ1PHrtH/ubesdelight-neoforge-1.21.1-0.4.7.jar'
+
+[update.modrinth]
+mod-id = 'PYjpoAys'
+version = 'nQ1PHrtH'

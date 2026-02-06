@@ -1,0 +1,13 @@
+name = "[Let's Do] Hearth & Timber"
+filename = "letsdo-hearth_and_timber-neoforge-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bcaf42f43474d5203b18a63ba62bc23115f102e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7360582
+project-id = 1397796

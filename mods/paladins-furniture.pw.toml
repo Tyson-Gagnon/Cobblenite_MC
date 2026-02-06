@@ -1,0 +1,13 @@
+name = "Paladin's Furniture"
+filename = "paladin-furniture-mod-1.4.4-neoforge-mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66cb08ffd664ea7db88dbd0db1c6a0f6153650f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6951202
+project-id = 663141

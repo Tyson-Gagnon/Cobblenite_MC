@@ -1,0 +1,16 @@
+filename = 'cobblemonarmory-1.4.4-neoforge-1.21.1.jar'
+name = 'Cobblemon: Armory'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9da1c93410f814d8d888afbe477825a7e1138c29c74fe93cae416a31bd38467d897dec7bf29720448465985425fe0d9daa39e069e4749e09c0c870ddfe6d7583'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2GSJkNsi/versions/Jv4fmkKH/cobblemonarmory-1.4.4-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = '2GSJkNsi'
+version = 'Jv4fmkKH'

@@ -1,0 +1,16 @@
+filename = 'furnitury-2.3512-neoforge-1.21.1.jar'
+name = 'Furnitury - Vanilla Styled Furniture'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fd932ab889ce7fa8342d5240838d20984ef3b6f9e70e1c23b078173fd099d8950d14b2ffa7a7d4be5d6a340126db0eaa25ca0477179beb9bf61048e900063d8e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sNpla5PF/versions/Illv2JDc/furnitury-2.3512-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'sNpla5PF'
+version = 'Illv2JDc'

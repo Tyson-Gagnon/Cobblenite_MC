@@ -1,0 +1,13 @@
+name = "Jade Additional Entities"
+filename = "jademoddedentities-neoforge-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ada48bb2f3860875454d71bdc459d7d6906b5ff4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7504010
+project-id = 1414723

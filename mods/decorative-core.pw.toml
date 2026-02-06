@@ -1,0 +1,13 @@
+name = "Decorative Core"
+filename = "decorative_core-1.0508-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c990a9aeb79074c95534f90acf327b4c12313519"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6982590
+project-id = 1247662

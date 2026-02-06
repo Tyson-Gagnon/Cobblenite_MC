@@ -1,0 +1,16 @@
+filename = 'amwplushies-neoforge-1.21.1-5.0.2.jar'
+name = 'A Man With Plushies'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'baeba232a5db741f78575152fed48543256dc0ea03f4a6b9c3e813f0330a91a75c51334020d6714cc1f498c971e77ab14ae4fa4ee8d2fbd17cf3178566561e75'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EnHNgJd3/versions/Yt1Y4onv/amwplushies-neoforge-1.21.1-5.0.2.jar'
+
+[update.modrinth]
+mod-id = 'EnHNgJd3'
+version = 'Yt1Y4onv'

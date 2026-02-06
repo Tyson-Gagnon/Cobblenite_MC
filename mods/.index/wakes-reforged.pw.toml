@@ -1,0 +1,16 @@
+filename = 'wakes-1.21.1-NeoForge-1.0.4.jar'
+name = 'Wakes Reforged'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c733296604f9fd93a7007d0b6522217b6202b5df'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7229309
+project-id = 1223529

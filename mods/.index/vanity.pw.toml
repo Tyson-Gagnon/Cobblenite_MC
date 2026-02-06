@@ -1,0 +1,16 @@
+filename = 'vanityslots-neoforge-1.21.1-2.0.1.jar'
+name = 'VanitySlots'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f7d4373108f0f32d8eda6b34b88014ee86f351028c7105028f186ecee0e53b0c5c74c2c6b869e1d62ff82d18ff7bb74eb11665a1b8a0a05270a3ed5f7d0e1638'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YTVu0oG8/versions/xWfEA0yC/vanityslots-neoforge-1.21.1-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'YTVu0oG8'
+version = 'xWfEA0yC'

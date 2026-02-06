@@ -1,0 +1,16 @@
+filename = 'particular-1.21.1-NeoForge-1.1.6.jar'
+name = 'Particular ✨ Reforged'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dc35166ca95828196358c0ae19225f2e226ac81f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6916905
+project-id = 1219053

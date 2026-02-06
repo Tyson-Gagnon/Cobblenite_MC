@@ -1,0 +1,16 @@
+filename = 'BetterEnd-21.0.17.jar'
+name = 'BetterEnd Neoforge'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '82994b8b6d1007e848e3efa9a37173427d8d35f55ce059994c143d040d32f01d9f252c5179af31014fc7896e34b74bb6a133920c8d729324eee07cfe6f83db68'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IcERKldh/versions/vhelM17O/BetterEnd-21.0.17.jar'
+
+[update.modrinth]
+mod-id = 'IcERKldh'
+version = 'vhelM17O'

@@ -1,0 +1,13 @@
+name = "Cobblepack"
+author = "Srini"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6c25f17366f01cdf0841fc37d150ee3fc04a4af44a20cc23dc8596383036464c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.215"

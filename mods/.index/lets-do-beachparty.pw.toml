@@ -1,0 +1,16 @@
+filename = 'letsdo-beachparty-neoforge-2.1.2.jar'
+name = "[Let's Do] Beachparty"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fa003a8ad9fd0d61b47e87a5cb9c3cc6f27c7b7c378eeb8dd99395a392570a34ddae620955fd24868b08813192e27526cccb7f0b418cfec43f597e7fc63882df'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GyKzAh3l/versions/hk7yuzyT/letsdo-beachparty-neoforge-2.1.2.jar'
+
+[update.modrinth]
+mod-id = 'GyKzAh3l'
+version = 'hk7yuzyT'

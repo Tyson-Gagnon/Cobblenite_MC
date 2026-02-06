@@ -1,0 +1,13 @@
+name = "Skyrims Skeletons Meme"
+filename = "skyrim_skeletons-1.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "958a26ec67a02ad05494f00a3efccc8a1579f5a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7386099
+project-id = 1414687

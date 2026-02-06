@@ -1,0 +1,16 @@
+filename = 'letsdo-furniture-neoforge-1.1.1.jar'
+name = "[Let's Do] Furniture"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '683338c7cedb6edc403814110977ad29bbe71f879500f4e50124455247f0b71d10f8d502342ea154aefbe50550391473294912f31e8835786f5a074ed11637ed'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3JQDJrYW/versions/XIwT04vk/letsdo-furniture-neoforge-1.1.1.jar'
+
+[update.modrinth]
+mod-id = '3JQDJrYW'
+version = 'XIwT04vk'

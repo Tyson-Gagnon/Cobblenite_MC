@@ -1,0 +1,12 @@
+==== Connector Mixin Patch Audit Summary ====
+Successful: 0
+Partial: 0
+Failed: 0 (2 ignored)
+Success rate: .00%        Accuracy: .00%
+=============================================
+
+=============== Failed mixins ===============
+(ignored) github/jorgaomc/mixin/JigsawStructureMixin legendarymonuments$expandMaxDistance116(I)I
+(ignored) github/jorgaomc/mixin/JigsawStructureMixin legendarymonuments$expandMaxDistance128(I)I
+=============================================
+

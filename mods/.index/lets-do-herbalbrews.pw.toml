@@ -1,0 +1,16 @@
+filename = 'letsdo-herbalbrews-neoforge-1.1.2.jar'
+name = "[Let's Do] HerbalBrews"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd253d68ef79d8c249b9deafa6800ea508bd81c39c7c0d71f367611a5c2ae79e0d5c0d21656e844df4278af50629cffdf73319393f6a9502621c0cbf801e0e4f5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Eh11TaTm/versions/7hgH3Nm5/letsdo-herbalbrews-neoforge-1.1.2.jar'
+
+[update.modrinth]
+mod-id = 'Eh11TaTm'
+version = '7hgH3Nm5'

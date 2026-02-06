@@ -1,0 +1,16 @@
+filename = 'wunderlib-21.0.9.jar'
+name = 'WunderLib Neoforge'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5d7437d6a2fe4e38843c70550597a42e7ef1f2561cead4bcb974f7d499a2d5f3cf9639b424ec6ecb0d97866d59579c984bbd833d48627825ac8021af1afc0939'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HZmhgdJk/versions/gzkIe0y0/wunderlib-21.0.9.jar'
+
+[update.modrinth]
+mod-id = 'HZmhgdJk'
+version = 'gzkIe0y0'

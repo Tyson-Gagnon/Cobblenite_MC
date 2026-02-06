@@ -1,0 +1,16 @@
+filename = 'letsdo-hearth_and_timber-neoforge-1.0.2.jar'
+name = "[Let's Do] Hearth & Timber"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '94bcac3ab8f392fa5a7c89a829b076ac07942bf4e733d0c58103881940f4510512a953f11e0d1b8b8545d5face3c45bf9df0667bcc7146335ebc74b34058bf67'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/paO4gjmE/versions/ozTCQNK2/letsdo-hearth_and_timber-neoforge-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'paO4gjmE'
+version = 'ozTCQNK2'
