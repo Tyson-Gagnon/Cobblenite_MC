@@ -33,10 +33,6 @@ file = ".mixin.out/class/net/minecraft/nbt/CompoundTag.class"
 hash = "f0448374119ec8a6abe24bca339d44b85f303d1aa71651cbc16aacdf8af44137"
 
 [[files]]
-file = ".nojekyll"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/AMWPlushies-AltList-Server.toml"
 hash = "391c89d4684981232225c478b587b5c433beb54a9b3036d373e57fd03f8c4735"
 
